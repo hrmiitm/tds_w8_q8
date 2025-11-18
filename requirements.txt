@@ -1,0 +1,7 @@
+# Healthcare Performance Analysis Dependencies
+# Email: 22f3002460@ds.study.iitm.ac.in
+
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+numpy>=1.24.0
